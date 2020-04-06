@@ -1,0 +1,51 @@
+c:\users\joe\documents\visual studio 2015\Projects\CourseScheduleWPF\CourseScheduleWPF\bin\Debug\CourseScheduleWPF.exe.config
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\CourseScheduleWPF\CourseScheduleWPF\bin\Debug\CourseScheduleWPF.exe.config
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\CourseScheduleWPF\CourseScheduleWPF\bin\Debug\CourseScheduleWPF.exe
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\CourseScheduleWPF\CourseScheduleWPF\bin\Debug\CourseScheduleWPF.pdb
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\App.g.cs
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF_MarkupCompile.cache
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF_MarkupCompile.lref
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\MainWindow.baml
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.g.resources
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.Properties.Resources.resources
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.csproj.GenerateResource.Cache
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.exe
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.pdb
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\CourseScheduleWPF\CourseScheduleWPF\bin\Debug\Classes.dll
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\CourseScheduleWPF\CourseScheduleWPF\bin\Debug\Classes.pdb
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\bin\Debug\CourseScheduleWPF.exe.config
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\bin\Debug\CourseScheduleWPF.exe
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\bin\Debug\CourseScheduleWPF.pdb
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\bin\Debug\Classes.dll
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\bin\Debug\Classes.pdb
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\App.g.cs
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF_MarkupCompile.cache
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF_MarkupCompile.lref
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\MainWindow.baml
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.g.resources
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.Properties.Resources.resources
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.csproj.GenerateResource.cache
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.csproj.CopyComplete
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.exe
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.pdb
+C:\Users\Joe\Desktop\C# Final Project\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\bin\Debug\CourseScheduleWPF.exe.config
+C:\Users\Joe\Desktop\C# Final Project\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.exe
+C:\Users\Joe\Desktop\C# Final Project\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.pdb
+C:\Users\Joe\Desktop\C# Final Project\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\bin\Debug\CourseScheduleWPF.exe
+C:\Users\Joe\Desktop\C# Final Project\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\bin\Debug\CourseScheduleWPF.pdb
+C:\Users\Joe\Desktop\C# Final Project\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\bin\Debug\Classes.dll
+C:\Users\Joe\Desktop\C# Final Project\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\bin\Debug\Classes.pdb
+C:\Users\Joe\Desktop\C# Final Project\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\C# Final Project\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Joe\Desktop\C# Final Project\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\App.g.cs
+C:\Users\Joe\Desktop\C# Final Project\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF_MarkupCompile.cache
+C:\Users\Joe\Desktop\C# Final Project\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF_MarkupCompile.lref
+C:\Users\Joe\Desktop\C# Final Project\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\MainWindow.baml
+C:\Users\Joe\Desktop\C# Final Project\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.g.resources
+C:\Users\Joe\Desktop\C# Final Project\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.Properties.Resources.resources
+C:\Users\Joe\Desktop\C# Final Project\C# Final Project\CourseScheduleWPF\CourseScheduleWPF\obj\Debug\CourseScheduleWPF.csproj.GenerateResource.Cache

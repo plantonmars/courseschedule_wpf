@@ -1,0 +1,30 @@
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\Classes\Classes\bin\Debug\Classes.dll
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\Classes\Classes\obj\Debug\Classes.dll
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\Classes\Classes\obj\Debug\Classes.pdb
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\Salinas.HomeworkOne\Salinas.HomeworkOne\Classes\Classes\bin\Debug\Classes.dll
+C:\Users\Joe\Desktop\Salinas.HomeworkOne\Salinas.HomeworkOne\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Joe\Desktop\Salinas.HomeworkOne\Salinas.HomeworkOne\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\Salinas.HomeworkOne\Salinas.HomeworkOne\Classes\Classes\obj\Debug\Classes.dll
+C:\Users\Joe\Desktop\Salinas.HomeworkOne\Salinas.HomeworkOne\Classes\Classes\obj\Debug\Classes.pdb
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\Salinas.HomeworkTwo\Salinas.HomeworkOne\Classes\Classes\bin\Debug\Classes.dll
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\Salinas.HomeworkTwo\Salinas.HomeworkOne\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\Salinas.HomeworkTwo\Salinas.HomeworkOne\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\Salinas.HomeworkTwo\Salinas.HomeworkOne\Classes\Classes\obj\Debug\Classes.dll
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\Salinas.HomeworkTwo\Salinas.HomeworkOne\Classes\Classes\obj\Debug\Classes.pdb
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\Salinas.HomeworkTwo\Salinas.HomeworkTwo\Classes\Classes\bin\Debug\Classes.dll
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\Salinas.HomeworkTwo\Salinas.HomeworkTwo\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\Salinas.HomeworkTwo\Salinas.HomeworkTwo\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\Salinas.HomeworkTwo\Salinas.HomeworkTwo\Classes\Classes\obj\Debug\Classes.dll
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\Salinas.HomeworkTwo\Salinas.HomeworkTwo\Classes\Classes\obj\Debug\Classes.pdb
+C:\Users\Joe\Desktop\Salinas.HomeworkThree\Classes\Classes\bin\Debug\Classes.dll
+C:\Users\Joe\Desktop\Salinas.HomeworkThree\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Joe\Desktop\Salinas.HomeworkThree\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\Salinas.HomeworkThree\Classes\Classes\obj\Debug\Classes.dll
+C:\Users\Joe\Desktop\Salinas.HomeworkThree\Classes\Classes\obj\Debug\Classes.pdb
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\Classes\Classes\bin\Debug\Classes.dll
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\Classes\Classes\obj\Debug\Classes.dll
+C:\Users\Joe\Desktop\Salinas.HomeworkFour\Salinas.HomeworkFour\Classes\Classes\obj\Debug\Classes.pdb

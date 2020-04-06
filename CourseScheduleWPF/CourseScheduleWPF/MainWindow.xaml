@@ -1,0 +1,58 @@
+﻿<Window x:Class="CourseScheduleWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseScheduleWPF"
+        mc:Ignorable="d"
+        Title="Course Schedule Appication - Joseph Salinas" Height="688.973" Width="1117.098">
+    <Grid>
+        <Label x:Name="label" Content="Course Filename" HorizontalAlignment="Left" Margin="6,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxCourseFileName" Margin="108,14,10,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.503,0.895" Height="23"/>
+        <Button x:Name="OpenCoursebutton" Content="Open Course Collection&#xD;&#xA;" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Width="187" Height="30" Click="OpenCoursebutton_Click" HorizontalContentAlignment="Center"/>
+        <GroupBox x:Name="groupBox" Header="Find Course" HorizontalAlignment="Left" Margin="10,88,0,0" VerticalAlignment="Top" Height="270" Width="214">
+            <Grid HorizontalAlignment="Left" Height="251" VerticalAlignment="Top" Width="204" Margin="0,0,-2,-4">
+                <Label x:Name="label1" Content="Course Id" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="textBoxFindCourseId" Height="23" Margin="68,13,5,0" TextWrapping="Wrap" VerticalAlignment="Top" Padding="0"/>
+                <Button x:Name="FindCourseIdbutton" Content="Find by Course Id" HorizontalAlignment="Left" Margin="10,51,10,0" VerticalAlignment="Top" Width="184" Height="32" Click="FindCourseIdbutton_Click"/>
+                <Label x:Name="label2" Content="Designator" HorizontalAlignment="Left" Margin="0,99,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="label3" Content="Number" HorizontalAlignment="Left" Margin="0,130,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="textBoxFindDesignator" Height="23" Margin="68,102,5,0" TextWrapping="Wrap" VerticalAlignment="Top" Padding="0"/>
+                <TextBox x:Name="textBoxFindNumber" Height="23" Margin="68,133,5,0" TextWrapping="Wrap" VerticalAlignment="Top" Padding="0"/>
+                <Button x:Name="FindDesNumbutton" Content="Find by Designator and Number" HorizontalAlignment="Left" Margin="5,173,0,0" VerticalAlignment="Top" Width="194" Height="32" Click="FindDesNumbutton_Click"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox x:Name="groupBox1" Header="Course Data" Margin="240,88,10,0" VerticalAlignment="Top" Height="270"/>
+        <Grid Height="251" Margin="240,107,10,0" VerticalAlignment="Top">
+            <Label x:Name="label4" Content="Course Id&#xD;&#xA;" HorizontalAlignment="Left" Margin="10,19,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label5" Content="Designator" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label6" Content="Number" HorizontalAlignment="Left" Margin="10,81,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label7" Content="Title" HorizontalAlignment="Left" Margin="10,112,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label8" Content="Credits" HorizontalAlignment="Left" Margin="10,143,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label9" Content="Description" HorizontalAlignment="Left" Margin="10,174,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="textBoxCourseIdData" Height="23" Margin="88,23,10,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+            <TextBox x:Name="textBoxDesignatorData" Height="23" Margin="88,53,10,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+            <TextBox x:Name="textBoxNumberData" Height="23" Margin="88,81,10,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+            <TextBox x:Name="textBoxTitleData" Height="23" Margin="88,112,10,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+            <TextBox x:Name="textBoxCreditsData" Height="23" Margin="88,143,10,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+            <TextBox x:Name="textBoxDescriptionData" Margin="88,174,10,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="67"/>
+        </Grid>
+        <GroupBox x:Name="groupBox2" Header="Professor Data" Margin="10,363,10,9.5">
+            <Grid Margin="0,10,-2,-13">
+                <Label x:Name="label10" Content="Professors Filename" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="textBoxProfessorFileName" Margin="130,4,16,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="22"/>
+                <Button x:Name="OpenProfbutton" Content="Open Professor Collection" HorizontalAlignment="Left" Margin="10,31,0,0" VerticalAlignment="Top" Width="152" Height="35" Click="OpenProfbutton_Click"/>
+                <ListView x:Name="listViewProfessorCollection" Margin="10,71,10,20">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn DisplayMemberBinding="{Binding n_ID}" Header="Id"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding n_Name}" Header="Name"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding n_Phone}" Header="Phone"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Window>

@@ -1,0 +1,22 @@
+
+{
+  "courses": [
+    {
+      "id": 1,
+      "designator": "BCS",
+      "number": "101",
+      "title": "Programming Concepts and Problem Solving",
+      "description": "This course will provide an introduction to programming logic and problem solving techniques. The topics covered in this course will provide the skills needed to learn languages such as Visual Basic, C++ and JAVA. Topics include such items as constants and variables, data types, scope of variables, basic logic constructs, subroutines and functions. Students who have completed BCS 120 or equivalent cannot take BCS 101.",
+      "credits": "3"
+    },
+
+    {
+      "id": 2,
+      "designator": "BCS",
+      "number": "130",
+      "title": "Computer Concepts and Applications",
+      "description": "This is an introductory course in the use of personal computers in today's society. Students will receive instruction in basic computer concepts and terminology, the fundamentals of the Windows operating system and have hands on experience at the beginning to intermediate level using Microsoft Word, Excel, and PowerPoint. The Internet will be used to supplement textbook and lecture materials. Computer Systems students cannot use BCS 102 to meet a BCS Elective requirement",
+      "credits": "3"
+    }
+  ]
+}
